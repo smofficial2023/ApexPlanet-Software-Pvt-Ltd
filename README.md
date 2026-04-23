@@ -21,8 +21,8 @@ This master repository consolidates my complete internship journey as a **Data A
 
 | # | Project | Description | Repository |
 |---|---------|-------------|------------|
-| 01 | 🧹 Data Cleaning & Wrangling | Transformed raw datasets into analysis-ready tables using Python & Pandas | [→ View Repo](https://github.com/YourName/Part01-DataCleaning) |
-| 02 | 🗄️ SQL Analysis & Reporting | Extracted KPIs using advanced SQL — CTEs, window functions, joins | [→ View Repo](https://github.com/YourName/Part02-SQLAnalysis) |
+| 01 | 🧹 Data Cleaning & Wrangling | Transformed raw datasets into analysis-ready tables using Python & Pandas | [→ View Repo]() |
+| 02 | 🗄️ SQL Analysis & Reporting | Extracted KPIs using advanced SQL — CTEs, window functions, joins | [→ View Repo](https://github.com/smofficial2023/ApexPlanet-Software-Pvt-Ltd/tree/main/Task%202) |
 | 03 | 📊 Dashboard Development | Built interactive Power BI & Tableau dashboards with drill-down & slicers | [→ View Repo](https://github.com/YourName/Part03-Dashboards) |
 | 04 | 🎯 Insights & Presentation | Synthesised findings into a stakeholder-ready deck with recommendations | [→ View Repo](https://github.com/YourName/Part04-Presentation) |
 
