@@ -10,7 +10,7 @@ This master repository consolidates my complete internship journey as a **Data A
 
 | Detail | Info |
 |--------|------|
-| 🗓️ Internship Period | 2026(March - May) |
+| 🗓️ Internship Period | 2026(February - April) |
 | 🏢 Organization | Apexplanet Software Private Limited |
 | 🌐 Domains Covered | Business Analyst · Operations · Finance · Data Analyst|
 | 🛠️ Core Stack | Python · SQL · Power BI · Advance Excel · Google Colab |
@@ -33,27 +33,42 @@ This master repository consolidates my complete internship journey as a **Data A
 ### 🔴 Problem 1: [Unwanted and noisy database in the server]
 - **Issue:** [Random and unsegeregated data storing that leads to data reduntancy and acts on data Integrity]
 - **Solution:** [Cleaning and Wrangling of data to have a clear senario about all the transactions and entries occurred so far]
-- **Impact:** []
-- **Tools Used:** [e.g. Python, Pandas, SQL]
+- **Impact:** [Tasks are now 45% faster with smooth data entry and easy fetch of data elements for further aalysis and auditing]
+- **Tools Used:** [Python, Pandas, Google Colab]
 
 ---
 
-### 🔴 Problem 2: []
-- **Issue:** [Describe the business problem or data challenge]
-- **Solution:** [What you did to solve it]
-- **Impact:** [Measurable business outcome]
-- **Tools Used:** [e.g. Power BI, DAX, Excel]
+### 🔴 Problem 2: [Customer Alignment and Revenue Shortage]
+- **Issue:** [The business is experiencing a misalignment between user expectations and platform offerings, leading to higher customer churn rates and inconsistent revenue growth. The primary issue is a lack of granular personalization, where mass-marketing strategies are applied to heterogeneous customer segments]
+- **Solution:** [Customer Segmentation: Utilize analysis to bucket users into distinct cohorts.
+Churn Prediction: Build a machine learning classifier (Random Forest) to identify "at-risk" customers based on features like session inactivity, decreased coupon usage, and support ticket frequency.
+Personalization Engine: Implement a recommendation algorithm that leverages purchase history to surface "Buy Again" prompts and complementary product suggestions to boost AOV.]
+- **Impact:** [Revenue: Increase in AOV and lifetime value (LTV) through targeted upselling.
+Retention: Reduction in churn rate by proactively re-engaging at-risk users with personalized incentives before they switch to competitors.]
+- **Tools Used:** [Python (pandas, scikit-learn for modeling).
+
+Database: SQL (for cohort extraction and transactional querying).
+
+Visualization: Tableau or Power BI (for funnel and cohort analysis dashboards)]
 
 ---
 
-### 🔴 Problem 3: []
-- **Issue:** [Describe the challenge]
-- **Solution:** [Your approach]
-- **Impact:** [Result achieved]
-- **Tools Used:** [Tools used]
+### 🔴 Problem 3: [Brand collaboration and partnership achievement]
+- **Issue:** [Difficulty in accurately attributing revenue and visibility gains to specific brand collaborations (e.g., FMCG partnerships)]
+- **Solution:** [SEO Rankings for partner SKUs and correlate them with click-through rates (CTR) and conversion rates (CR). Run controlled experiments to compare the performance with respect to A/B Testing]
+- **Impact:** [Growth: Increased partnership revenue by providing data-backed reports that validate brand ROI.
+Optimization: Enhanced visibility for high-margin partner brands, creating a virtuous cycle of supply-demand matching.
+Transparency: Strengthened trust with FMCG partners through objective, data-driven reporting]
+- **Tools Used:** [Python, Google Analytics]
 
-> 💡 *Add as many problems as you solved — this section is the most powerful part of your portfolio.*
+--- 
 
+### 🔴 Problem 4: [Items review and proper synchronization with Delivery Partners]
+- **Issue:** [Discrepancies between digital inventory levels (what the app shows) and physical warehouse availability (what is actually on the shelf), coupled with delays in synchronization with delivery partners]
+- **Solution:** [Use time-series forecasting (Prophet/ARIMA) to predict demand surges at specific dark stores, allowing for proactive stock replenishment.]
+- **Impact:** [ignificant reduction in order cancellation rates, Lower wastage of perishable goods through better demand-driven inventory stocking]
+- **Tools Used:** [Python, Power BI]
+  
 ---
 
 ## 🛠️ Skills Demonstrated
@@ -63,9 +78,9 @@ This master repository consolidates my complete internship journey as a **Data A
 |----------|--------|
 | **Data Engineering** | Pandas, NumPy, ETL Design, Schema Normalization, Missing Data Handling |
 | **SQL & Databases** | Complex JOINs, Window Functions, CTEs, Stored Procedures, Query Optimization |
-| **Visualization** | Power BI (DAX, M Query), Tableau, Matplotlib, Seaborn, Excel Pivot Charts |
+| **Visualization** | Power BI (DAX, M Query), Matplotlib, Seaborn, Excel Pivot Charts |
 | **Analytics** | Exploratory Data Analysis, KPI Definition, Statistical Interpretation |
-| **Python Ecosystem** | Pandas, NumPy, Jupyter Notebooks, Scikit-learn (basics), Openpyxl |
+| **Python Ecosystem** | Pandas, NumPy, Google Colab, Scikit-learn (basics) |
 
 ### Soft Skills
 - 📢 Stakeholder Communication & Presentation
@@ -88,7 +103,7 @@ This master repository consolidates my complete internship journey as a **Data A
 
 ## 🎤 Final Presentation Deck
 
-> A 12-slide capstone deck covering methodology, findings, real-world problems solved, and strategic recommendations.
+> A 10-slide capstone deck covering methodology, findings, real-world problems solved, and strategic recommendations.
 
 📎 [**View Final Presentation →**](https://canva.link/8l2mo7awvblnh76)
 
@@ -119,7 +134,7 @@ A polished HTML portfolio page is included in this repo.
 **[Your Full Name]**
 - 🔗 LinkedIn: [www.linkedin.com/in/subhajit-mondal-85946328b]
 - 📧 Email: [subhajitmondalofficial2027@gmail.com]
-- 🐙 GitHub: [github.com/YourName](https://github.com/YourName)
+- 🐙 GitHub: [https://github.com/smofficial2023/ApexPlanet-Software-Pvt-Ltd/tree/main]
 
 ---
 
