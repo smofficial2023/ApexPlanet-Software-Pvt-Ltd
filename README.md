@@ -125,8 +125,7 @@ Transparency: Strengthened trust with FMCG partners through objective, data-driv
 
 A polished HTML portfolio page is included in this repo.
 
-📄 [**portfolio.html**](./portfolio.html) — Open in any browser for the full interactive experience.
-
+📄 [**portfolio.html**](https://github.com/smofficial2023/ApexPlanet-Software-Pvt-Ltd/blob/main/DA%20Portfolio.html)
 ---
 
 ## 📬 Contact
