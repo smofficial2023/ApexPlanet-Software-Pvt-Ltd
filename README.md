@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>SUBHAJIT MONDAL — Data Analyst Internship Portfolio</title>
+<title>[YourName] — Data Analyst Internship Portfolio</title>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=Syne:wght@400;500;600&display=swap" rel="stylesheet"/>
 <style>
   :root {
@@ -496,13 +496,13 @@
   <!-- HERO -->
   <div class="hero">
     <div class="hero-badge">Capstone Portfolio · Data Analytics Internship</div>
-    <h1>SUBHAJIT MONDAL - DataAnalyst-<span>Internship-Portfolio</span></h1>
+    <h1>[YourName]-DataAnalyst-<span>Internship-Portfolio</span></h1>
     <p class="hero-sub">A master repository integrating all four internship projects — from data wrangling to dashboarding — into one cohesive, career-ready showcase.</p>
     <div class="hero-meta">
       <span class="hero-chip">4 Projects</span>
-      <span class="hero-chip">Python · SQL · Power BI · Advance Excel · Google Colab</span>
+      <span class="hero-chip">Python · SQL · Power BI · Excel</span>
       <span class="hero-chip">Real-World Problems Solved</span>
-      <span class="hero-chip">2026 Summer Internship</span>
+      <span class="hero-chip">2024–2025 Internship</span>
     </div>
   </div>
 
@@ -510,7 +510,7 @@
   <div class="nav-strip">
     <button class="nav-btn active" onclick="showTab('overview', this)">Overview</button>
     <button class="nav-btn" onclick="showTab('repos', this)">Part Repositories</button>
-    <button class="nav-btn" onclick="showTab('problems', this)">Real World Problems Over Customer Attribution and Revenue Analysis in Zepto Pvt. Ltd.</button>
+    <button class="nav-btn" onclick="showTab('problems', this)">Real World Problems</button>
     <button class="nav-btn" onclick="showTab('skills', this)">Skills Demonstrated</button>
     <button class="nav-btn" onclick="showTab('learnings', this)">Key Learnings</button>
     <button class="nav-btn" onclick="showTab('deck', this)">Presentation Deck</button>
@@ -530,7 +530,7 @@
       <div class="ov-card">
         <div class="ov-card-icon">🛠</div>
         <div class="ov-card-title">Tools Used</div>
-        <div class="ov-card-val">Python, SQL, Excel, Power BI</div>
+        <div class="ov-card-val">Python, SQL, Excel, Power BI, Tableau</div>
       </div>
       <div class="ov-card">
         <div class="ov-card-icon">🔍</div>
@@ -593,10 +593,9 @@
         <div class="repo-desc">Transformed raw, inconsistent datasets into analysis-ready tables using Python and Pandas. Handled outliers, missing values, and schema normalization.</div>
         <div class="repo-tools">
           <span class="tool-chip">Python</span>
-          <span class="tool-chip">Matplotlib</span>
           <span class="tool-chip">Pandas</span>
           <span class="tool-chip">NumPy</span>
-          <span class="tool-chip">Scikit Learn</span>
+          <span class="tool-chip">Jupyter</span>
         </div>
         <a class="repo-link" href="https://github.com/YourName/Part01-DataCleaning" target="_blank">→ github.com/YourName/Part01</a>
       </div>
