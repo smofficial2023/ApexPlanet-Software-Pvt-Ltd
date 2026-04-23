@@ -10,7 +10,7 @@ This master repository consolidates my complete internship journey as a **Data A
 
 | Detail | Info |
 |--------|------|
-| 🗓️ Internship Period | 2024 – 2025 |
+| 🗓️ Internship Period | 2026(March - May) |
 | 🏢 Organization | Apexplanet Software Private Limited |
 | 🌐 Domains Covered | Business Analyst · Operations · Finance · Data Analyst|
 | 🛠️ Core Stack | Python · SQL · Power BI · Advance Excel · Google Colab |
@@ -30,15 +30,15 @@ This master repository consolidates my complete internship journey as a **Data A
 
 ## ⚠️ Real World Problems Solved
 
-### 🔴 Problem 1: [Your Problem Title Here]
-- **Issue:** [Describe the business problem or data challenge you encountered]
-- **Solution:** [Explain what you did — queries written, transformations applied, analysis performed]
-- **Impact:** [Quantified result, e.g. "Reduced reporting errors by 40%" or "Saved 3 hrs/week"]
+### 🔴 Problem 1: [Unwanted and noisy database in the server]
+- **Issue:** [Random and unsegeregated data storing that leads to data reduntancy and acts on data Integrity]
+- **Solution:** [Cleaning and Wrangling of data to have a clear senario about all the transactions and entries occurred so far]
+- **Impact:** []
 - **Tools Used:** [e.g. Python, Pandas, SQL]
 
 ---
 
-### 🔴 Problem 2: [Your Problem Title Here]
+### 🔴 Problem 2: []
 - **Issue:** [Describe the business problem or data challenge]
 - **Solution:** [What you did to solve it]
 - **Impact:** [Measurable business outcome]
@@ -46,7 +46,7 @@ This master repository consolidates my complete internship journey as a **Data A
 
 ---
 
-### 🔴 Problem 3: [Your Problem Title Here]
+### 🔴 Problem 3: []
 - **Issue:** [Describe the challenge]
 - **Solution:** [Your approach]
 - **Impact:** [Result achieved]
@@ -90,7 +90,7 @@ This master repository consolidates my complete internship journey as a **Data A
 
 > A 12-slide capstone deck covering methodology, findings, real-world problems solved, and strategic recommendations.
 
-📎 [**View Final Presentation →**](https://link-to-your-deck.com)
+📎 [**View Final Presentation →**](https://canva.link/8l2mo7awvblnh76)
 
 **Slide Structure:**
 | Slide | Title |
@@ -117,10 +117,10 @@ A polished HTML portfolio page is included in this repo.
 ## 📬 Contact
 
 **[Your Full Name]**
-- 🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 📧 Email: [you@email.com](mailto:you@email.com)
+- 🔗 LinkedIn: [www.linkedin.com/in/subhajit-mondal-85946328b]
+- 📧 Email: [subhajitmondalofficial2027@gmail.com]
 - 🐙 GitHub: [github.com/YourName](https://github.com/YourName)
 
 ---
 
-*Built with 💙 during my Data Analyst Internship at [Organization] · 2024–2025*
+*Built with 💙 during my Data Analyst Internship at Apexplanet Software Private Limited · 2026
